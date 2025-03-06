@@ -1,0 +1,2 @@
+[console_scripts]
+abidance = abidance.cli.main:main
